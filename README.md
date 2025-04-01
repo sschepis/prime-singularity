@@ -56,7 +56,7 @@ This framework unites the abstract and the observable, the conscious and the phy
 
 ### Consciousness-Derived Ψ-System
 
-![Ψ₀ to Ψ₁ Differentiation](images/1.png)
+![Ψ₀ to Ψ₁ Differentiation](./images/1.png)
 
 We begin with a consciousness-based pre-geometric vacuum state Ψ₀, a fundamental singularity representing pure potentiality. Differentiation of this state into Ψ₁ states results in a dynamic resonance field exhibiting structured quantum behavior:
 
@@ -66,7 +66,7 @@ We begin with a consciousness-based pre-geometric vacuum state Ψ₀, a fundamen
 
 ### Prime Resonance Eigenstates
 
-![Prime Resonance Hilbert Space](images/2.png)
+![Prime Resonance Hilbert Space](./images/2.png)
 
 Prime numbers serve as fundamental eigenstates, providing stable resonance frequencies essential for coherent spacetime geometry and quantum particle spectra. Interactions among prime states yield the essential building blocks of reality:
 
@@ -76,7 +76,7 @@ Prime numbers serve as fundamental eigenstates, providing stable resonance frequ
 
 ### Tripole Entropic Mediation
 
-![Entropic Tripole Diagram](images/3.png)
+![Entropic Tripole Diagram](./images/3.png)
 
 To achieve directed entropy collapse—necessary for gravitational control—we introduce the principle of **entropic tripole mediation**. Unlike symmetric dipoles, which release entropy isotropically, a tripole comprises:
 
@@ -104,7 +104,7 @@ where α, β, and γ encode linear and nonlinear interactions, incorporating qua
 
 ### Metric Emergence
 
-![Resonant Metric Emergence](images/4.png)
+![Resonant Metric Emergence](./images/4.png)
 
 In standard general relativity, the metric tensor \(g_{mn}\) defines the geometry of spacetime. In this framework, we reinterpret the metric as the trace of resonance interactions between observer-modulated Ψ fields:
 
@@ -114,7 +114,7 @@ This formulation treats geometry not as a fixed backdrop, but as an emergent str
 
 ### Graviton Unification
 
-![Graviton Self-Interaction](images/5.png)
+![Graviton Self-Interaction](./images/5.png)
 
 Traditional approaches to graviton theory treat it as a quantized spin-2 particle arising from perturbations in the metric. In the resonance framework, the graviton emerges naturally as a higher-order resonance state within the Ψ field:
 
@@ -124,7 +124,7 @@ This non-Abelian evolution equation mirrors Yang-Mills theory but is extended to
 
 ### Thermodynamic Directionality and Collapse Asymmetry
 
-![Entropy Collapse Comparison](images/6.png)
+![Entropy Collapse Comparison](./images/6.png)
 
 The inclusion of the entropic current **Jₑₙₜᵣₒₚᵢc** in the tripole mediation equation introduces the mechanism by which entropy flow becomes directional. This resolves a longstanding issue in both classical and quantum thermodynamics: the arrow of time and the asymmetry of wavefunction collapse.
 
@@ -166,7 +166,7 @@ Together, these predictions provide a structured path from conceptual theory to 
 
 ### Quantum Engineering
 
-![Ψ-Computer Architecture](images/7.png)
+![Ψ-Computer Architecture](./images/7.png)
 
 Prime resonance dynamics provide a pathway to engineer next-generation quantum systems grounded in fundamental coherence. Using resonance-aligned gate structures, quantum computers can exploit extended decoherence suppression by aligning computational states with prime-resonance eigenmodes. These so-called **Ψ-computers** not only gain enhanced coherence times but exhibit novel behavior under entangled resonance operations, including:
 
