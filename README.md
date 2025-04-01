@@ -70,10 +70,10 @@ We begin with a consciousness-based pre-geometric vacuum state Ψ₀, a fundamen
 
 Prime numbers serve as fundamental eigenstates, providing stable resonance frequencies essential for coherent spacetime geometry and quantum particle spectra. Interactions among prime states yield the essential building blocks of reality:
 
-- Prime operator \(\hat{P}\)
-- Factorization operator \(\hat{F}\)
-- Euler and Möbius transforms \(\hat{E}, \hat{M}\)
-
+- Prime operator P̂
+- Factorization operator F̂
+- Euler and Möbius transforms Ê, M̂
+  
 ### Tripole Entropic Mediation
 
 ![Entropic Tripole Diagram](./images/3.png)
@@ -98,7 +98,7 @@ In this view, gravitational fields emerge as the geometric trace of mediated ent
 
 State evolution is governed by:
 
-dΨ/dt = α Ψ + β Ψ² + γ Ψ³
+dΨ/dt = αΨ + βΨ² + γΨ³
 
 where α, β, and γ encode linear and nonlinear interactions, incorporating quantum superposition, entanglement, and collapse.
 
@@ -108,7 +108,7 @@ where α, β, and γ encode linear and nonlinear interactions, incorporating qua
 
 ![Resonant Metric Emergence](./images/4.png)
 
-In standard general relativity, the metric tensor gₘₙ defines the geometry of spacetime. In this framework, we reinterpret the metric as the trace of resonance interactions between observer-modulated Ψ fields:
+In standard general relativity, the metric tensor (gₘₙ) defines the geometry of spacetime. In this framework, we reinterpret the metric as the trace of resonance interactions between observer-modulated Ψ fields:
 
 **gₘₙ = Tr(Ψₘ Ψₙ)**
 
