@@ -97,7 +97,9 @@ In this view, gravitational fields emerge as the geometric trace of mediated ent
 ### Mathematical Structure
 
 State evolution is governed by:
-\(\frac{d\Psi}{dt} = \alpha \Psi + \beta \Psi^2 + \gamma \Psi^3\)
+
+dΨ/dt = α Ψ + β Ψ² + γ Ψ³
+
 where α, β, and γ encode linear and nonlinear interactions, incorporating quantum superposition, entanglement, and collapse.
 
 ## Gap Closures
@@ -106,7 +108,7 @@ where α, β, and γ encode linear and nonlinear interactions, incorporating qua
 
 ![Resonant Metric Emergence](./images/4.png)
 
-In standard general relativity, the metric tensor \(g_{mn}\) defines the geometry of spacetime. In this framework, we reinterpret the metric as the trace of resonance interactions between observer-modulated Ψ fields:
+In standard general relativity, the metric tensor gₘₙ defines the geometry of spacetime. In this framework, we reinterpret the metric as the trace of resonance interactions between observer-modulated Ψ fields:
 
 **gₘₙ = Tr(Ψₘ Ψₙ)**
 
